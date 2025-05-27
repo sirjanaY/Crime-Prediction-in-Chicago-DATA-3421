@@ -1,7 +1,7 @@
 
 # Chicago Crime Prediction — DATA3421 Final Project
 
-This project explores the use of machine learning models to **predict whether a reported crime in Chicago will result in an arrest**. Using over five years of public crime data, we identified arrest trends and built classification models to support data-driven decisions in law enforcement.
+This project explores the use of machine learning models to **predict whether a reported crime in Chicago will result in an arrest**. Using over five years of public crime data through Kaggle, we identified arrest trends and built classification models to support data-driven decisions in law enforcement.
 
 ## 📌 Project Overview
 
@@ -59,3 +59,6 @@ This project explores the use of machine learning models to **predict whether a 
 - Confusion matrix and performance metrics analysis
 - Real-world application of machine learning in public safety
 
+
+## Citation: 
+Kaggle Dataset: https://www.kaggle.com/datasets/currie32/crimes-in-chicago
